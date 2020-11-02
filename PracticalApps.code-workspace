@@ -1,7 +1,13 @@
 {
 	"folders": [
 		{
-			"path": "Northwind"
+			"path": "NorthwindContextLib"
+		},
+		{
+			"path": "NorthwindEntitiesLib"
+		},
+		{
+			"path": "NorthwindWeb"
 		}
 	],
 	"settings": {}

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "le+rOa9ixhEvAc7xKDXjf7N9pMFhxPzh5wYy1iusTbVoXi3PStABzC1/oKbVpVXREpexwtvCtiffOxITHAKnwg==",
+  "success": true,
+  "projectFilePath": "/Users/mrohadi/Desktop/C#/Code/PracticalApps/NorthwindEntitiesLib/NorthwindEntitiesLib.csproj",
+  "expectedPackageFiles": [
+    "/Users/mrohadi/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/mrohadi/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
