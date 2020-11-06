@@ -8,6 +8,9 @@
 		},
 		{
 			"path": "NorthwindWeb"
+		},
+		{
+			"path": "RazorPagesMovie"
 		}
 	],
 	"settings": {}
