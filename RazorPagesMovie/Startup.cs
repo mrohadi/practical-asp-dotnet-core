@@ -8,6 +8,8 @@ using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
+using Microsoft.EntityFrameworkCore;
+using RazorPagesMovie.Data;
 
 namespace RazorPagesMovie
 {
@@ -15,6 +17,7 @@ namespace RazorPagesMovie
     {
         public Startup(IConfiguration configuration)
         {
+
             Configuration = configuration;
         }
 
@@ -24,6 +27,10 @@ namespace RazorPagesMovie
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddRazorPages();
+
+            // Using Connection string from appsettings.json
+            services.AddDbContext<RazorPagesMovieContext>(options =>
+                options.UseNpgsql(Configuration.GetConnectionString("MovieContext")));
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
