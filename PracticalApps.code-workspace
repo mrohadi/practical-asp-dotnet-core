@@ -13,6 +13,9 @@
 			"path": "RazorPagesMovie"
 		},
 		{
+			"path": "WebAuth"
+		},
+		{
 			"path": "WebApp1"
 		}
 	],
