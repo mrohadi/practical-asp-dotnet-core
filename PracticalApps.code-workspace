@@ -11,6 +11,9 @@
 		},
 		{
 			"path": "RazorPagesMovie"
+		},
+		{
+			"path": "WebApp1"
 		}
 	],
 	"settings": {}
