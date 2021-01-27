@@ -1,9 +1,0 @@
-/Users/mrohadi/Desktop/C#/Code/PracticalApps/NorthwindEntitiesLib/bin/Debug/netstandard2.0/NorthwindEntitiesLib.deps.json
-/Users/mrohadi/Desktop/C#/Code/PracticalApps/NorthwindEntitiesLib/bin/Debug/netstandard2.0/NorthwindEntitiesLib.dll
-/Users/mrohadi/Desktop/C#/Code/PracticalApps/NorthwindEntitiesLib/bin/Debug/netstandard2.0/NorthwindEntitiesLib.pdb
-/Users/mrohadi/Desktop/C#/Code/PracticalApps/NorthwindEntitiesLib/obj/Debug/netstandard2.0/NorthwindEntitiesLib.csprojAssemblyReference.cache
-/Users/mrohadi/Desktop/C#/Code/PracticalApps/NorthwindEntitiesLib/obj/Debug/netstandard2.0/NorthwindEntitiesLib.AssemblyInfoInputs.cache
-/Users/mrohadi/Desktop/C#/Code/PracticalApps/NorthwindEntitiesLib/obj/Debug/netstandard2.0/NorthwindEntitiesLib.AssemblyInfo.cs
-/Users/mrohadi/Desktop/C#/Code/PracticalApps/NorthwindEntitiesLib/obj/Debug/netstandard2.0/NorthwindEntitiesLib.csproj.CoreCompileInputs.cache
-/Users/mrohadi/Desktop/C#/Code/PracticalApps/NorthwindEntitiesLib/obj/Debug/netstandard2.0/NorthwindEntitiesLib.dll
-/Users/mrohadi/Desktop/C#/Code/PracticalApps/NorthwindEntitiesLib/obj/Debug/netstandard2.0/NorthwindEntitiesLib.pdb
